@@ -18,6 +18,8 @@ Guys drop your project ideas here one by one we will start workig on it
 
 7. Internet Speed Meter GUI 
 
+8. App Time Limit Alerting System - App for desktop that will notify user when time limit on specified app is over.
+
 
 ## Projects Completed 
 
